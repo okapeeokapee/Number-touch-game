@@ -31,7 +31,6 @@
       this.panels.forEach(panel =>{
         board.appendChild(panel.getEl());
       })
-      
     }
 
     activate(){
