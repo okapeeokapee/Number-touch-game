@@ -1,5 +1,5 @@
 'use strict';{
-  
+
     class Panel{
       constructor(){
         this.el = document.createElement('li');
