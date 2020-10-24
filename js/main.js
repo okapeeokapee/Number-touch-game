@@ -6,7 +6,6 @@
         this.el.classList.add('pressed');
       }
 
-      
       getEl(){
         return this.el;
       }
