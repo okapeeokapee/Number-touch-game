@@ -5,11 +5,9 @@
         this.el = document.createElement('li');
         this.el.classList.add('pressed');
       }
-
       getEl(){
         return this.el;
       }
-
       activate(num){
         this.el.classList.remove('pressed');
         this.el.textContent = num;
