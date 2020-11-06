@@ -30,6 +30,7 @@
       })
     }
 
+    
     activate(){
       this.panels.forEach(panel =>{
         panel.activate(0);
