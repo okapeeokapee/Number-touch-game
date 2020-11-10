@@ -14,6 +14,7 @@
       }
     }
   
+    
   class Board{
     constructor(){
       this.panels = [];
